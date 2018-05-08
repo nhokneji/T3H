@@ -1,0 +1,9 @@
+- Tên: Nguyễn Văn Hùng
+- Trường: Đại học công nghiệp Hà Nội
+- Chuyên ngành ở trường: KTPM
+- Năm thứ: 3
+- Các ngôn ngữ đã học ở trường:
+- HTML, CSS, JavaScript (JS). Em đã biết nhưng học ở mức độ cơ bản và gần như đã quên
+- Java, Spring MVC, Hibernate. Em chưa biết ạ.
+- thường học vào cuối tuần nhưng k thường xuyên
+- Nếu tự học em sẽ theo java web và muốn học full-end development
